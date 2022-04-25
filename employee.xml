@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employeeXML>
+    <adress>
+        <city>city</city>
+        <country>country</country>
+        <postalCode>256</postalCode>
+        <street>Street</street>
+    </adress>
+    <age>18</age>
+    <firstName>name</firstName>
+    <lastName>lastname</lastName>
+</employeeXML>

@@ -1,0 +1,13 @@
+[
+  {
+    "firstName": "name",
+    "lastName": "lastname",
+    "age": 18,
+    "adress": {
+      "city": "city",
+      "country": "country",
+      "Street": "Street",
+      "PostalCode": 256
+    }
+  }
+]
